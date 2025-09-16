@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Course1" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_dark_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_dark_onPrimary</item>
+        <item name="android:colorBackground">@color/md_theme_dark_surface</item>
+
+        <item name="shapeAppearanceSmallComponent">@style/Shape.LargeCorners</item>
+        <item name="shapeAppearanceMediumComponent">@style/Shape.LargeCorners</item>
+        <item name="shapeAppearanceLargeComponent">@style/Shape.LargeCorners</item>
+    </style>
+
+    <style name="Shape.LargeCorners" parent="ShapeAppearance.Material3.Corner.Medium">
+        <item name="cornerSize">20dp</item>
+    </style>
+</resources>

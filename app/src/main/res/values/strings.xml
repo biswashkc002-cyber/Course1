@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Course1</string>
+    <string name="hint_username">Username (First name)</string>
+    <string name="hint_password">Password (Student ID without s)</string>
+    <string name="hint_campus">Campus (footscray / sydney / br)</string>
+    <string name="action_login">Login</string>
+    <string name="title_dashboard">Dashboard</string>
+</resources>
+
