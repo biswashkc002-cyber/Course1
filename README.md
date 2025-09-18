@@ -1,6 +1,4 @@
-Here’s a **ready-to-paste README.md** focused on exactly what your brief asks: clear **build/run instructions** + **dependencies & setup**.
 
-````markdown
 # Course1 — NIT3213 Android App
 
 An Android app with **Login → Dashboard → Details** that integrates the `vu-nit3213-api`.
