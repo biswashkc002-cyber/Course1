@@ -8,7 +8,7 @@ An Android app with **Login → Dashboard → Details** that integrates the `vu-
 ## Build & Run
 
 ### Requirements
-- **Android Studio** (Giraffe/Hedgehog or newer)
+- **Android Studio** 
 - **JDK 17**
 - Internet connection
 
