@@ -109,6 +109,3 @@ Uses **kotlinx-coroutines-test** (with `Dispatchers.setMain`) and **MockK** for 
 
 ```
 
-If you want this merged into your existing README instead of replacing it, say the word and I’ll stitch it in neatly.
-::contentReference[oaicite:0]{index=0}
-```
